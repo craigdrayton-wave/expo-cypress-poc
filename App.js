@@ -9,7 +9,7 @@ export default function App() {
   useEffect(() => {
     const idleTimer = setTimeout(() => {
       setIdle(true)
-    }, 100)
+    }, 3600000)
 
     return () => clearTimeout(idleTimer)
   })
