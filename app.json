@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "73c0e373-8455-4836-b0db-bad100b3b819"
+      }
+    },
+    "owner": "craigdrayton-wave"
   }
 }
