@@ -1,0 +1,11 @@
+{
+  "scenarios": [{
+    "firstNumber": 1,
+    "secondNumber": 1,
+    "expectedSum": 2
+  }, {
+    "firstNumber": 5,
+    "secondNumber": 5,
+    "expectedSum": 10
+  }]
+}
